@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
     <DataLayer
       initialState={initialState}
-      reducer
+      reducer={reducer}
     >
       <App />
     </DataLayer>

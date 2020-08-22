@@ -17,8 +17,8 @@ function Footer() {
                 <ShuffleIcon className="footer_green" />
                 <SkipPreviousIcon className="footer_icon" />
                 <PlayCircleOutlineIcon className="footer_icon" fontSize="large" />
-                <SkipNextIcon />
-                <RepeatIcon />
+                <SkipNextIcon className="footer_icon" />
+                <RepeatIcon className="footer_green" />
                 
             </div>
             <div className="footer_right">
